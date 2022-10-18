@@ -1,0 +1,8 @@
+Design:
+Introduce user to program
+Give them a menu of ints they can input
+use a switch case for the different types of tests they can do
+
+Implementation Step 1:
+Introduce user
+offer first option: calculate 
